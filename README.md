@@ -4,10 +4,17 @@
 
 ## Table of Contents
 1. Getting Started
-* Testing
-  *RSpec
-	*Factory Girl
+* [Testing](#testing)
+  *[RSpec](#rspec)
+	*[Factory Girl](#factory-girl)
 * Setting Up Remote Server	
   * CentOS Linux 
   *DigitalOcean Droplet
 * Bug Reports  
+---
+
+##Testing
+
+### RSpec
+
+### Factory girl
